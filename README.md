@@ -2,6 +2,8 @@
 
 A simple Todo application built with **React**, **TypeScript**, and **MUI**, featuring user management and task assignments.
 
+https://simple-my-todo-app.netlify.app/
+
 ## 🚀 Features
 
 - Add, edit, and remove todos
