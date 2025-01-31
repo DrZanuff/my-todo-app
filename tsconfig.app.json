@@ -8,6 +8,7 @@
     "skipLibCheck": true,
     "allowJs": true,
     "jsx": "react-jsx",
+    "resolveJsonModule": true,
 
     /* Bundler mode */
     "moduleResolution": "bundler",

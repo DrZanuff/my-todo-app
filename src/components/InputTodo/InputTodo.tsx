@@ -29,6 +29,7 @@ export const InputTodo = ({ handleAddTodoItem }: InputTodoProps) => {
         onChange={onChange}
         sx={{ flex: 2 }}
         size="small"
+        data-testid="data-test-new-todo-input"
       />
       <Button
         variant="contained"
